@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Cook's tree boa","category":"Orange"},
+{"id":2,"name":"Buffalo, american","category":"Yellow"},
+{"id":3,"name":"Peccary, white-lipped","category":"Indigo"},
+{"id":4,"name":"African red-eyed bulbul","category":"Turquoise"},
+{"id":5,"name":"Fox, crab-eating","category":"Goldenrod"},
+{"id":6,"name":"Fox, cape","category":"Mauv"},
+{"id":7,"name":"Blue shark","category":"Mauv"},
+{"id":8,"name":"Racer, american","category":"Blue"},
+{"id":9,"name":"Gecko, ring-tailed","category":"Indigo"},
+{"id":10,"name":"Sacred ibis","category":"Blue"},
+{"id":11,"name":"Lappet-faced vulture","category":"Pink"},
+{"id":12,"name":"Black-backed magpie","category":"Puce"},
+{"id":13,"name":"North American red fox","category":"Maroon"},
+{"id":14,"name":"Boubou, southern","category":"Violet"},
+{"id":15,"name":"Owl, burrowing","category":"Yellow"},
+{"id":16,"name":"Crab (unidentified)","category":"Goldenrod"},
+{"id":17,"name":"Jaguarundi","category":"Khaki"},
+{"id":18,"name":"Monster, gila","category":"Teal"},
+{"id":19,"name":"Fisher","category":"Red"},
+{"id":20,"name":"Porcupine, crested","category":"Purple"}]
+}
